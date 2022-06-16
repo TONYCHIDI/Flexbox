@@ -109,4 +109,5 @@ main {
         font-size: 9px;
         margin-left: 20px;
         font-weight: 300;
+        cursor:pointer;
     }
