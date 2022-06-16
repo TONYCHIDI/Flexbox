@@ -42,6 +42,7 @@ h1 {
     text-transform: uppercase;
     margin-left: 40px;
     font-weight: 500;
+    cursor: pointer;
 }
 
 main {
