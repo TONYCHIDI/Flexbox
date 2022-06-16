@@ -15,12 +15,13 @@ a {
 }
 
 .navigation-content img {
-    width: 185px;
+    width: 125px;
 }
 
 .navigation-content {
     height: 45px;
-    padding: 60px;
+    padding-left: 60px;
+    padding-right: 60px;
     background-color: #004241;
     display: flex;
     align-items: center;
@@ -38,7 +39,7 @@ a {
     display: flex;
     justify-content: end;
     text-transform: uppercase;
-    margin-left: 40px;
+    margin-left: 30px;
     font-weight: 400;
     cursor: pointer;
 }
