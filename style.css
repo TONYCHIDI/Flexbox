@@ -20,9 +20,13 @@ h1 {
     font-family: Big Shoulders Display;
 }
 
+.navigation-content img {
+    width: 185px;
+}
+
 .navigation-content {
     height: 45px;
-    padding: 40px 100px;
+    padding: 60px;
     background-color: #004241;
     display: flex;
     align-items: center;
